@@ -1,5 +1,0 @@
-conda activate IA_Ex8_MachineLearning
-cd C:\Users\TheFr\OneDrive\Documentos\GitHub\IA-Ex8-MachineLearning\IA_Exercise8_MachineLearning\Assets\
-mlagents-learn config/rollerball_config.yaml --run-id=RollerBall
-tensorboard --logdir results
-mlagents-learn config/rollerball_config.yaml --run-id=RollerBall --resume
